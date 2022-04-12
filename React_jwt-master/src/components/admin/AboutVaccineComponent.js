@@ -1,0 +1,29 @@
+import React from 'react'
+
+const AboutVaccineComponent = () => {
+  return (
+    <div>
+        <h2>About Vaccination</h2><br/>
+        <h4>1) What is Vaccination?</h4>
+        <h6>Vaccination is the administration of antigenic material (a vaccine) to stimulate an individual's immune system to develop adaptive immunity to a pathogen. Vaccines can prevent or ameliorate morbidity from infection. Vaccination is the most effective method of preventing infectious diseases. Widespread immunity due to vaccination is largely responsible for the worldwide eradication of smallpox and the restriction of diseases such as polio, measles, and tetanus from much of the world.
+        </h6>   <br/>
+
+        <h4>2) How does Vaccines function?</h4>
+        <h6>Generically, the process of artificial induction of immunity, in an effort to protect against infectious disease, works by 'priming' the immune system with an 'immunogen'. Stimulating immune responses with an infectious agent is known as immunization. Vaccination includes various ways of administering immunogens. Most vaccines are given by hypodermic injection as they are not absorbed reliably through the intestines. Live attenuated polio, some typhoid, and some cholera vaccines are given orally to produce immunity in the bowel. While vaccination provides a lasting effect, it usually takes several weeks to develop, while passive immunity (the transfer of antibodies) has immediate effect.
+        </h6> <br/>
+        
+        <h4>3) How Vaccines can be given?</h4>
+        <h6>A vaccine administration may be oral, by injection (intramuscular, intradermal, subcutaneous), by puncture, transdermal or intranasal. Several recent clinical trials have aimed to deliver the vaccines via mucosal surfaces to be up-taken by the common mucosal immunity system, thus avoiding the need for injections.
+        </h6><br/>
+
+        <h4>4) What is the Indian scenario in Vaccination?</h4>
+        <h6>2.7 Crore children are born in India every year. Approximately 18.3 lakhs children die before their fifth birthday. India records 5 lakh child deaths annually due to vaccine preventable diseases. Despite high childhood mortality rates due to vaccine preventable diseases, 30 percent of Indian children miss the benefits of full immunization every year. That is, an estimated 89 lakhs children across the country that either get only a few vaccines or no vaccines at all. One out of every 3 children in India does not receive all vaccines that are available under UIP. Five percent of children in urban areas and 8 percent in rural areas are unimmunized. The Government of India recognizes immunization as one of the most cost effective interventions to prevent child deaths. India’s Universal Immunization Programme is one of the largest public health interventions in the country with an extensive vaccine delivery system with 27000 vaccine storage units in 35 states across the country. 80% of vaccination takes place in the outreach sessions, held in thousands each year in more than 6 lakh villages and other urban belts.</h6>
+        <br/>
+
+        <h4>5) What is Mission Indradhanush?</h4>
+        <h6>‘Mission Indradhanush’ was launched on 25th December, 2014 with an aim to cover all those children who are partially vaccinated or unvaccinated. ‘Mission Indradhanush’ is a nationwide initiative with a special focus on 201 high focus districts. These districts account for nearly 50% of the total partially vaccinated or unvaccinated children in the country. Mission Indradhanush will provide protection against seven life-threatening diseases (Diphtheria, Whooping Cough, Tetanus, Polio, Tuberculosis, Measles and Hepatitis B). In addition, vaccination against Japanese Encephalitis and Haemophilus influenza type B will be provided in selected districts of the country. Vaccination against tetanus will be provided to the pregnant women. Between 2009-2013 immunization coverage has increased from 61% to 65%, indicating only 1% increase in coverage every year. To accelerate the process of immunization by covering 5% and more children every year, the Mission Mode has been adopted to achieve target of full coverage by 2020. High-focus 201 districts will be taken up for implementation in the first phase. Of these, 82 districts are in just four states of UP, Bihar, Madhya Pradesh and Rajasthan and nearly 25% of the unvaccinated or partially vaccinated children of India are in these 82 districts of four states. Moreover, 297 will be targeted for the second phase. The Mission focuses on interventions to rapidly increase full immunization coverage of children by approximately 5% annually and to expand full immunization coverage from 65% in 2014 to at least 90% children in the next five years. The government has sought technical support from various external agencies like WHO, UNICEF and Rotary to achieve the goals of this programme. Understandably, the implementation of vaccination programme and ensuring that the benefits of vaccines reach to each and every possible beneficiary is a challenging task. Mission Indradhanush depicting seven colours of the rainbow, aims to cover all those children by 2020 who are either unvaccinated or are partially vaccinated against seven vaccine preventable diseases which include diphtheria, whooping cough, tetanus, polio, tuberculosis, measles and hepatitis B. The Mission Indradhanush initiative is a call for action by the Government of India to intensify efforts to expedite the full immunization coverage in the country. Full immunization will rescues lakhs of children from disease mortality and morbidity and is essential for social development.</h6>
+    </div>
+  )
+}
+
+export default AboutVaccineComponent

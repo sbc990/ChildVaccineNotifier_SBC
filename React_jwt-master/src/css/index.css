@@ -1,0 +1,45 @@
+.main-container{
+    margin:0;
+   background-image: url("../images/v5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 160vh;
+
+
+  }
+  
+  img{
+   max-height: 100%;
+  }
+
+  #header {
+    width: 100%;
+    height: 80vh;
+    margin-top: 70px;
+  }
+
+  #header .brand-name {
+    color: #000080;
+  }
+
+  #header .btn-get-started{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #3498db;
+    border: 2px solid #3498db;
+    text-decoration: none;
+
+  }
+
+  #header .btn-get-started:hover{
+    background: #3498db;
+    color: #fff;
+  }
+
+  
