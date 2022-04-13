@@ -158,7 +158,7 @@ const AddBookingComponent = () => {
                                className="form-control"
                                value={vaccineName}
                                onChange={(e) => setVaccineName(e.target.value)}>
-                                   
+                                   <option >Select Vaccine Name</option> 
                                    {vaccines.map((vaccine)=>(
                                        
                                     <option key={vaccine.id}>{vaccine.vaccineName}</option>))}
@@ -174,7 +174,7 @@ const AddBookingComponent = () => {
                                className="form-control"
                                value={hospitalName}
                                onChange={(e) => setHospitalName(e.target.value)}>
-                                   
+                                   <option >Select Hospital Name</option> 
                                    {hospitals.map((hospital)=>(
                                        
                                     <option key={hospital.id}>{hospital.hospitalName}</option>))}
